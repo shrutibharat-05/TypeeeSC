@@ -1,1 +1,1 @@
-#                    YOO! Type your script..
+#                    YOO! TYPE your SCRIPT..
