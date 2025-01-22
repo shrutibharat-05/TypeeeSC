@@ -7,7 +7,6 @@ interface User {
     startTrial():string
     //function with params
     getCoupan(coupanName: string,value:number):number
-  
 
 }
 
