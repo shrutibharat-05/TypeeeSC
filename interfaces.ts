@@ -40,6 +40,8 @@ shruti.name="radha";
 //     }
 // }
 class student{
+
+    
    
     constructor(
          public name:string,
